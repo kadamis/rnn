@@ -1,0 +1,32 @@
+Python 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============== RESTART: C:/Users/kosta/OneDrive/Υπολογιστής/rnn.py =============
+(100, 50, 1) (100, 1)
+Epoch:  1 , Loss:  [[145196.56443004]] , Val Loss:  [[72596.16397785]]
+Epoch:  2 , Loss:  [[96313.05369]] , Val Loss:  [[48154.7943819]]
+Epoch:  3 , Loss:  [[57429.54294968]] , Val Loss:  [[28713.4247858]]
+Epoch:  4 , Loss:  [[28546.0314368]] , Val Loss:  [[14272.05480373]]
+Epoch:  5 , Loss:  [[9687.68577378]] , Val Loss:  [[4843.28516458]]
+Epoch:  6 , Loss:  [[254.67715435]] , Val Loss:  [[127.08256071]]
+Epoch:  7 , Loss:  [[17.92247689]] , Val Loss:  [[8.93397903]]
+Epoch:  8 , Loss:  [[18.65790453]] , Val Loss:  [[9.30068509]]
+Epoch:  9 , Loss:  [[18.57424654]] , Val Loss:  [[9.25665104]]
+Epoch:  10 , Loss:  [[17.94408232]] , Val Loss:  [[8.94633101]]
+Epoch:  11 , Loss:  [[18.30730869]] , Val Loss:  [[9.1282164]]
+Epoch:  12 , Loss:  [[18.21671051]] , Val Loss:  [[9.08210768]]
+Epoch:  13 , Loss:  [[18.51666054]] , Val Loss:  [[9.22979339]]
+Epoch:  14 , Loss:  [[18.2161261]] , Val Loss:  [[9.08295564]]
+Epoch:  15 , Loss:  [[18.27822839]] , Val Loss:  [[9.11202983]]
+Epoch:  16 , Loss:  [[18.52089624]] , Val Loss:  [[9.23273731]]
+Epoch:  17 , Loss:  [[18.17321979]] , Val Loss:  [[9.06076596]]
+Epoch:  18 , Loss:  [[18.63952817]] , Val Loss:  [[9.29296165]]
+Epoch:  19 , Loss:  [[18.33174928]] , Val Loss:  [[9.13816845]]
+Epoch:  20 , Loss:  [[18.20306163]] , Val Loss:  [[9.07549638]]
+Epoch:  21 , Loss:  [[18.20891671]] , Val Loss:  [[9.0788028]]
+Epoch:  22 , Loss:  [[18.75409435]] , Val Loss:  [[9.35354799]]
+Epoch:  23 , Loss:  [[18.3497904]] , Val Loss:  [[9.14971815]]
+Epoch:  24 , Loss:  [[18.24986422]] , Val Loss:  [[9.09967101]]
+Epoch:  25 , Loss:  [[18.47901897]] , Val Loss:  [[9.2124407]]
+0.5766271037870817
+>>> 
