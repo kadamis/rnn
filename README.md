@@ -1,2 +1,2 @@
 # rnn
-Normal distribution with numpy.
+Normal distribution with numpy arrays.
